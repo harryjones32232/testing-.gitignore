@@ -1,0 +1,4 @@
+# Exclude SystemVerilog files from GitHub language statistics
+*.sv linguist-vendored
+*.svh linguist-vendored
+*.v linguist-vendored
